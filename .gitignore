@@ -1,0 +1,10 @@
+# minio
+minio/*
+minio-data/*
+minio-test-data/*
+
+# rust app
+debug/
+target/
+**/*.rs.bk
+*.pdb
